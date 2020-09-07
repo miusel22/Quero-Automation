@@ -757,7 +757,7 @@ opacity: 0.5;
 }
 @media screen and (min-width: 300px) and (max-width: 780px) {
 .c-orange{
-height: 120px;  
+height: 280px;  
 }
 .carousel-content-cardbody{
 position: absolute;
@@ -775,6 +775,9 @@ padding-right: 0px;
 .banner-responsive{
 height: 600px;  
   }
+.banner-responsive-one{
+height: 300px;  
+}
   }
 /*Footer*/
 
